@@ -1,3 +1,3 @@
 # dart_algorithms_stack
 
-This code represents my studies on dart stacks.
+This code represents studies on dart stacks.
